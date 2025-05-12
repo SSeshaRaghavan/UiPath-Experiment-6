@@ -58,3 +58,10 @@ e. Use Copy File activity:
 From: item
 
 To: destinationPath
+
+# Workflow Process Image:
+![WhatsApp Image 2025-05-12 at 09 16 38_f6483ccb](https://github.com/user-attachments/assets/f4be9bda-4dda-40e8-8a6c-fb44c0eb15fd)
+![WhatsApp Image 2025-05-12 at 09 16 43_36b1ad9d](https://github.com/user-attachments/assets/11cfc5f2-4aba-4597-9b64-fbcc80c8d0c7)
+![WhatsApp Image 2025-05-12 at 09 17 07_7b788952](https://github.com/user-attachments/assets/f77060e4-82e2-4ba8-9665-85711a2de074)
+![WhatsApp Image 2025-05-12 at 09 17 31_6d386454](https://github.com/user-attachments/assets/629c7c1f-08be-49a0-938b-3805e0f1cc3f)
+
